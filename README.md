@@ -1,4 +1,4 @@
-This project consists of four directories, one of which has been partially censored to avoid search results:
+# This project consists of four directories, one of which has been partially censored to avoid search results:
 
 Algorithms Notes: My notes/projects from an algorithms class. Most relevant: 
 - Sorting_Lists.py, which contains a fair collection of self-written sorting algorithms.
